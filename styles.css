@@ -1,0 +1,5 @@
+.done {
+  text-decoration: line-through;
+  color: #aaaaaa;
+  border-bottom: 2px solid rgb(65, 52, 32);
+}
